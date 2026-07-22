@@ -1,0 +1,11 @@
+INDONESIAN LICENSE PLATE OCR
+==================================================
+Date               : 2026-07-23 00:45:26.474971
+Model              : qwen/qwen2.5-vl-7b
+Total Images       : 197
+Perfect OCR        : 156
+Incorrect OCR      : 41
+Success Rate       : 79.19%
+Average CER        : 0.0431
+Character Accuracy : 95.69%
+Execution Time     : 736.88 seconds
